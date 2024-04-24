@@ -11,7 +11,7 @@ Welcome to NeuralNuggets! This repository is a collection of machine learning re
 
 ## Implementations
 
-The `implementations-expriments/` directory contains code implementations of various machine learning papers, such as GPT. These implementations serve as practical examples to help understand and reproduce the techniques described in the papers.
+The `implementations-expriments/` directory contains code implementations of various machine learning papers/architectures, such as GPT. These implementations serve as practical examples to help understand and reproduce the techniques described in the papers.
 
 ## Experiments
 
