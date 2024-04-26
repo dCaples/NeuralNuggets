@@ -1,0 +1,5 @@
+wandb*
+shakespeare-2k-bpe-merges.txt
+shakespeare-2k-bpe-vocab.json
+shakespeare-bpe-merges.txt
+shakespeare-bpe-vocab.json
