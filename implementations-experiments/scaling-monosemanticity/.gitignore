@@ -1,0 +1,13 @@
+tiny-stories-bpe-merges.txt
+tiny-stories-bpe-vocab.json
+tinystories-train.txt
+tiny-stories-train.pt
+TinyStories-valid.txt
+TinyStoriesV2-GPT4-valid.txt
+tiny-stories-model.pt
+wandb/*
+residuals/*
+data/*
+*.pt
+*.json
+*.tar
